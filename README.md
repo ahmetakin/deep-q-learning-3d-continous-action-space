@@ -15,4 +15,4 @@ This project created during working my master thesis research.
 -Unity machine learning library<br>
 -python with <a href="https://github.com/matplotlib/matplotlib">matplot</a>,<a href="https://github.com/tensorflow/tensorflow">tensorflow</a>,<a href="https://github.com/numpy/numpy>numpy</a>
 
-<br> Thesis : <a href=http://library.neu.edu.tr/cgi-bin/koha/opac-detail.pl?bib=285858">Library.neu.edu.tr</a>
+<br> Thesis : <a href="http://library.neu.edu.tr/cgi-bin/koha/opac-detail.pl?bib=285858">Library.neu.edu.tr</a>
